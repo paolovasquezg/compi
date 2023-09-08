@@ -1,0 +1,5 @@
+push 2
+push 3
+mult
+push 4
+mult
