@@ -1,0 +1,15 @@
+% Nombre, apellido
+% Nombre, apellido
+% Nombre, apellido
+push 6
+dup
+L1: push 1
+sub
+dup
+store 1
+mul
+load 1
+dup
+push 1
+jmpgt L1
+pop
